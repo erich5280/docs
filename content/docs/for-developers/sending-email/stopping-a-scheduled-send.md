@@ -23,7 +23,7 @@ If you are looking for information on how to stop a send that is currently in pr
 
  ### 	Cancel Scheduled Sends
 
-There is a [group of endpoints]({{root_url}}/API_Reference/Web_API_v3/cancel_schedule_send.html) in the SendGrid API v3 that makes it possible to batch transactional email together and to schedule a time for that batch to be delivered. You can also pause or cancel the delivery of one of these batches.
+There is a [group of endpoints]({{root_url}}/API_Reference/Web_API_v3/cancel_schedule_send.html) in the SendGrid API v3 that makes it possible to batch transactional email together and schedule a delivery time for that batch. You can also pause or cancel the delivery of one of these batches.
 
 <call-out>
 
